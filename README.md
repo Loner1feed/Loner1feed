@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eugen</h1>
-<h3 align="center">A young frontend developer from Ukraine</h3>
+<h3 align="center">Front-end React.js developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loner1feed&label=Profile%20views&color=0e75b6&style=flat" alt="loner1feed" /> </p>
 
