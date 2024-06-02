@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loner1feed&label=Profile%20views&color=0e75b6&style=flat" alt="loner1feed" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://loner1feed.github.io/portfolio-new](https://loner1feed.github.io/portfolio-new)
+- 👨‍💻 All of my projects are available at [https://loner1feed.github.io/portfolio-v2](https://loner1feed.github.io/portfolio-v2)
 
 - 📫 How to reach me **lfeedwork05@gmail.com**
 
